@@ -1,0 +1,73 @@
+.stApp {
+  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 45%, #ffffff 100%);
+  color: #1e293b;
+}
+
+.stButton>button {
+  background-color: #3b82f6;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-weight: 500;
+}
+
+.stButton>button:hover {
+  background-color: #2563eb;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+[data-testid="stSidebar"] {
+  background: rgba(248, 250, 252, 0.95);
+  border-right: 1px solid #e2e8f0;
+}
+
+.css-1aumxhk {
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+}
+
+.stMarkdown h1, .stMarkdown h2, .stMarkdown h3, .stMarkdown h4 {
+  color: #1e293b;
+  font-weight: 600;
+}
+
+.stMarkdown p, .stMarkdown li {
+  color: #475569;
+  line-height: 1.6;
+}
+
+.stDataFrame, .stTable {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+}
+
+.stMetric {
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.stSelectbox, .stTextInput, .stNumberInput {
+  background-color: #ffffff;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+}
+
+.stSuccess {
+  background-color: #dcfce7;
+  color: #166534;
+  border: 1px solid #bbf7d0;
+  border-radius: 6px;
+}
+
+.stError {
+  background-color: #fef2f2;
+  color: #991b1b;
+  border: 1px solid #fecaca;
+  border-radius: 6px;
+}

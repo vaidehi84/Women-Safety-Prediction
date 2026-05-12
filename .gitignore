@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.streamlit/
+models/*.joblib
+/.vscode/
+.DS_Store
