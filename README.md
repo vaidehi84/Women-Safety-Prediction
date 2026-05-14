@@ -106,7 +106,7 @@ Provides safety awareness tips and emergency support resources.
 
 ### 🖥️ Dashboard Preview
 
-![Women Safety Dashboard](assets/dashboard.png)
+![Women Safety Dashboard]("C:\Users\Vaidehi Sharma\Downloads\assets.png.png")
 
 The dashboard provides:
 - 📊 Crime analytics and trend visualization
@@ -122,7 +122,7 @@ The dashboard provides:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/vaidehi1sharma/women-safety-crime-hotspot-prediction.git
+git clone https://github.com/vaidehi84/women-safety-crime-hotspot-prediction.git
 cd women-safety-crime-hotspot-prediction
 ```
 
