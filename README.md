@@ -102,20 +102,6 @@ Provides safety awareness tips and emergency support resources.
 
 ---
 
-## 📸 Screenshots
-
-### 🖥️ Dashboard Preview
-
-![Women Safety Dashboard]("C:\Users\Vaidehi Sharma\Downloads\assets.png.png")
-
-The dashboard provides:
-- 📊 Crime analytics and trend visualization
-- 📍 High-risk area identification
-- 🛡️ Women safety insights
-- 🤖 AI-powered hotspot prediction
-- 📈 Interactive statistics and modern UI
-
----
 
 ## ⚙️ Installation & Setup
 
