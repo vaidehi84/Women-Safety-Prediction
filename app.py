@@ -24,7 +24,7 @@ from utils.visualization import (
 from utils.helpers import get_emergency_contacts, get_women_safety_tips, get_women_safety_quotes, format_large_number
 
 MODEL_PATH = os.path.join("models", "best_crime_model.joblib")
-DATA_PATH = os.path.join("dataset", "crime_in_india.csv")
+DATA_PATH = os.path.join("dataset", "sample_crime_data.csv")
 
 st.set_page_config(
     page_title="Women Safety Crime Hotspot Prediction",
